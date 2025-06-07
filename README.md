@@ -1,0 +1,2 @@
+# BeginAI
+BeginAI用のレポジトリ
